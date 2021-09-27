@@ -11,6 +11,7 @@ using System.Threading.Tasks;
 
 namespace AspNetCore_GitDemo
 {
+    //This is a middle ware startup file.
     public class Startup
     {
         public Startup(IConfiguration configuration)
